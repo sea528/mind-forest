@@ -1,0 +1,7 @@
+{
+  "name": "마음 대나무숲",
+  "description": "고등학생을 위한 법륜스님과 5인의 일타강사 비밀 상담소",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
